@@ -1,6 +1,9 @@
 # Source_analysis
+There are two main notebooks and two supplementary notebooks. 
 
-There are currently three main notebooks used to analyse the datasets for different purposes with a similar template.
+## SummaryEnergyConsumption.ipnynb
+This is the updated main notebook applied to retrieve Energy Consumption and Generation of the site. 
+This Notebook can be altered to apply to different sites.
 
 ## Source-analysis.ipynb
 This main notebook retrieves both Energy logs and Trend Logs and merges into a single DataFrame.
